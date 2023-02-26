@@ -1,0 +1,2 @@
+name= 'Pear'
+lastname= 'Kulkaew'
